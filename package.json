@@ -1,0 +1,22 @@
+{
+    "name": "yyh",
+    "version": "0.0.1",
+    "description": "sfsdf",
+    "keywords": [
+        ""
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "姜海岩 <80640815@yonghui.cn>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "handbook",
+        "md": [
+            "index.md",
+            "关于我们.md"
+        ]
+    }
+}
